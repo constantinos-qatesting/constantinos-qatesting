@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Constantinos 👋
 
-<!--
-**constantinos-qatesting/constantinos-qatesting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer focused on software quality and automation.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Manual Testing
+- Playwright (TypeScript)
+- API Testing
+- SQL
+- Jira & Azure DevOps
+- Qase
+- BrowserStack
+
+## Featured Project
+
+### SauceDemo Complete Automation Suite
+
+Playwright automation framework featuring:
+
+- Page Object Model (POM)
+- UI Testing
+- API Testing
+- End-to-End Testing
+- TypeScript
+
+Repository:
+https://github.com/constantinos-qatesting/saucedemo-complete-automation-suite
+
+## Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/constantinos-kyrri
