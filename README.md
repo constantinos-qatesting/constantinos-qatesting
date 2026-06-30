@@ -11,18 +11,33 @@ QA Engineer focused on software quality and automation.
 - Jira & Azure DevOps
 - Qase
 - BrowserStack
+- GitHub Actions
 
 ## Featured Project
 
-### SauceDemo Complete Automation Suite
+### 🏦 ParaBank Digital Banking QA Suite
 
 Playwright automation framework featuring:
 
-- Page Object Model (POM)
 - UI Testing
 - API Testing
+- Database Testing (SQLite)
 - End-to-End Testing
-- TypeScript
+- Page Object Model (POM)
+- GitHub Actions (CI)
+
+Repository:
+https://github.com/constantinos-qatesting/parabank-digital-banking-qa-suite
+
+## Other Project
+
+### 🛒 SauceDemo Complete Automation Suite
+
+Playwright automation framework featuring:
+
+- UI Testing
+- API Testing
+- Page Object Model (POM)
 
 Repository:
 https://github.com/constantinos-qatesting/saucedemo-complete-automation-suite
