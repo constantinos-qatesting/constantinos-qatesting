@@ -1,48 +1,94 @@
 # Hi, I'm Constantinos 👋
 
-QA Engineer focused on software quality and automation.
+QA Engineer with professional experience in manual software testing, including functional testing, regression testing, test execution, defect management, and user acceptance testing (UAT).
 
-## Skills
+Alongside my professional experience, I develop hands-on portfolio projects in UI automation, API testing, database validation, and continuous integration.
 
-- Manual Testing
-- Playwright (TypeScript)
-- API Testing
-- SQL
-- Jira & Azure DevOps
-- Qase
-- BrowserStack
-- GitHub Actions
+## 🛠️ Skills
 
-## Featured Project
+### Testing
 
-### 🏦 ParaBank Digital Banking QA Suite
+* Manual, Functional, Regression, and End-to-End Testing
+* User Acceptance Testing (UAT)
+* API Testing
+* Database Testing
+* Test Case Design and Defect Management
 
-Playwright automation framework featuring:
+### Automation and Technical Skills
 
-- UI Testing
-- API Testing
-- Database Testing (SQLite)
-- End-to-End Testing
-- Page Object Model (POM)
-- GitHub Actions (CI)
+* Playwright with TypeScript
+* Katalon Studio with Groovy
+* Postman with JavaScript
+* Newman
+* SQL and SQLite
+* Page Object Model (POM)
+* Request Chaining and Data-Driven Testing
+* GitHub Actions CI
 
-Repository:
-https://github.com/constantinos-qatesting/parabank-digital-banking-qa-suite
+### Tools
 
-## Other Project
+* Jira
+* Azure DevOps
+* Qase
+* BrowserStack
+* Git and GitHub
 
-### 🛒 SauceDemo Complete Automation Suite
+## 🚀 Portfolio Projects
 
-Playwright automation framework featuring:
+### 🏦 [ParaBank Digital Banking QA Suite](https://github.com/constantinos-qatesting/parabank-digital-banking-qa-suite)
 
-- UI Testing
-- API Testing
-- Page Object Model (POM)
+Playwright and TypeScript testing framework featuring:
 
-Repository:
-https://github.com/constantinos-qatesting/saucedemo-complete-automation-suite
+* End-to-end digital banking workflows
+* Page Object Model
+* API response validation
+* SQL and SQLite database checks
+* Tagged test execution
+* Playwright HTML reports
+* GitHub Actions CI
 
-## Connect With Me
+### 🛒 [SauceDemo Complete Automation Suite](https://github.com/constantinos-qatesting/saucedemo-complete-automation-suite)
 
-LinkedIn:
-https://linkedin.com/in/constantinos-kyrri
+Playwright and TypeScript automation framework featuring:
+
+* Positive and negative UI scenarios
+* Login, inventory, cart, and checkout workflows
+* Page Object Model
+* API response validation
+* Cross-browser execution
+* Reusable test utilities and HTML reporting
+
+### 🔌 [Restful Booker Postman API Testing Suite](https://github.com/constantinos-qatesting/restful-booker-postman-api-testing)
+
+Complete API testing workflow featuring:
+
+* Authentication and CRUD operations
+* Positive and negative testing
+* Request chaining and environment variables
+* Query Parameter testing
+* JSON Schema validation
+* Dynamic and CSV data-driven testing
+* Newman command-line execution
+* HTML reporting
+* GitHub Actions CI
+
+### 🏧 [XYZ Bank UI Automation Framework](https://github.com/constantinos-qatesting/xyz-bank-katalon-automation)
+
+Katalon Studio and Groovy automation framework featuring:
+
+* Customer and bank manager workflows
+* Login, deposits, withdrawals, and transaction validation
+* Customer and account creation
+* Reusable Custom Keywords
+* Dynamic validations and alert handling
+* Organized regression test suites
+
+## 📚 Currently Developing
+
+* Preparing for ISTQB Foundation Level certification
+* Expanding my database testing knowledge with PostgreSQL
+* Continuing to develop practical QA automation and API testing skills
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/constantinos-kyrri)
