@@ -1,8 +1,12 @@
 # Hi, I'm Constantinos 👋
 
-QA Engineer with professional experience in manual software testing, including functional testing, regression testing, test execution, defect management, and user acceptance testing (UAT).
+ISTQB® CTFL Certified QA Engineer with 2 years of professional experience in manual software testing, including functional, regression, and end-to-end testing, test execution, defect management, and user acceptance testing (UAT).
 
-Alongside my professional experience, I develop hands-on portfolio projects in UI automation, API testing, database validation, and continuous integration.
+Alongside my professional experience, I build hands-on portfolio projects covering UI automation, API testing, database validation, and continuous integration.
+
+## 🎓 Certification
+
+* ISTQB® Certified Tester Foundation Level (CTFL) — September 2026
 
 ## 🛠️ Skills
 
@@ -65,7 +69,7 @@ Complete API testing workflow featuring:
 * Authentication and CRUD operations
 * Positive and negative testing
 * Request chaining and environment variables
-* Query Parameter testing
+* Query parameter testing
 * JSON Schema validation
 * Dynamic and CSV data-driven testing
 * Newman command-line execution
@@ -85,7 +89,6 @@ Katalon Studio and Groovy automation framework featuring:
 
 ## 📚 Currently Developing
 
-* Preparing for ISTQB Foundation Level certification
 * Expanding my database testing knowledge with PostgreSQL
 * Continuing to develop practical QA automation and API testing skills
 
